@@ -1,0 +1,16 @@
+{
+	"Fairmount": ["Readville", "Fairmount", "Morton Street", "Talbot Ave", "Four Corners/Geneva", "Uphams Corner", "Newmarket", "South Station"],
+	"Fitchburg": ["Wachusett", "Fitchburg", "North Leominster", "Shirley", "Ayer", "Littleton/Rte 495", "South Acton", "West Concord", "Concord", "Lincoln", "Silver Hill", "Hastings", "Kendal Green", "Brandeis/Roberts", "Waltham", "Waverley", "Belmont", "Porter Square", "North Station"],
+	"Franklin": ["Forge Park/495", "Franklin", "Norfolk", "Walpole", "Plimptonville", "Windsor Gardens", "Norwood Central", "Norwood Depot", "Islington", "Dedham Corp. Ctr.", "Endicott", "Readville", "Hyde Park", "Ruggles", "Back Bay", "South Station"],
+	"Greenbush": ["Greenbush", "North Scituate", "Cohasset", "Nantasket Junction", "West Hingham", "East Weymouth", "Weymouth Landing", "Quincy Center", "JFK/UMass", "South Station"],
+	"Haverhill": ["Haverhill", "Bradford", "Lawrence", "Andover", "Ballardvale", "North Wilmington", "Reading", "Wakefield", "Greenwood", "Melrose Highlands", "Melrose/Cedar Park", "Wyoming Hill", "Malden Center", "North Station"],
+	"Kingston/Plymouth": ["Plymouth", "Kingston", "Halifax", "Hanson", "Whitman", "Abington", "South Weymouth", "Braintree", "Quincy Center", "JFK/UMass", "South Station"],
+	"Lowell": ["Lowell", "North Billerica", "Wilmington", "Anderson/Woburn", "Mishawum", "Winchester Center", "Wedgemere", "West Medford", "North Station"],
+	"Middleborough/Lakeville": ["Middleborough/Lakeville", "Bridgewater", "Campello", "Brockton", "Montello", "Holbrook/Randolph", "Braintree", "Quincy Center", "JFK/UMass", "South Station"],
+	"Needham": ["Needham Heights", "Needham Center", "Needham Junction", "Hersey", "West Roxbury", "Highland", "Bellevue", "Roslindale Village", "Forest Hills", "Ruggles", "Back Bay", "South Station"],
+	"Newburyport/Rockport": ["Rockport", "Gloucester", "West Gloucester", "Manchester", "Beverly Farms", "Prides Crossing", "Montserrat", "Newburyport", "Rowley", "Ipswich", "Hamilton/Wenham", "North Beverly", "Beverly", "Salem", "Swampscott", "Lynn", "River Works", "Chelsea", "North Station"],
+	"Providence/Stoughton": ["Wickford Junction", "TF Green Airport", "Providence", "South Attleboro", "Attleboro", "Mansfield", "Sharon", "Stoughton", "Canton Center", "Canton Junction", "Route 128", "Hyde Park", "Ruggles", "Back Bay", "South Station"],
+	"Framingham/Worcester": ["Worcester/Union", "Grafton", "Westborough", "Southborough", "Ashland", "Framingham", "West Natick", "Natick", "Wellesley Square", "Wellesley Hills", "Wellesley Farms", "Auburndale", "West Newton", "Newtonville", "Boston Landing", "Yawkey", "Back Bay", "South Station"],
+	"Franklin/Fairmount": ["Forge Park/495", "Franklin", "Norfolk", "Walpole", "Plimptonville", "Windsor Gardens", "Norwood Central", "Norwood Depot", "Islington", "Dedham Corp. Ctr.", "Endicott", "Readville", "Fairmount", "Morton Street", "Talbot Ave", "Four Corners/Geneva", "Uphams Corner", "Newmarket", "South Station"],
+	"Lowell/Haverhill": ["Haverhill", "Bradford", "Lawrence", "Andover", "Ballardvale", "Wilmington", "Anderson/Woburn", "Mishawum", "Winchester Center", "Wedgemere", "West Medford", "North Station"]
+}
